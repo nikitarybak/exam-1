@@ -1,0 +1,21 @@
+.wrapper-choose .photo-section__img:nth-child(1) {
+    align-self: flex-start;
+    margin-bottom: 5px;
+
+    .img {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+        }
+    }
+
+    .img {
+        position: relative;
+        width: 100%;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
